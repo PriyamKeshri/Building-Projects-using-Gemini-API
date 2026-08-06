@@ -1,5 +1,5 @@
 <div align="center">
-# 🚀 Generative AI Projects with Google Gemini
+<h1> 🚀 Generative AI Projects with Google Gemini </h1>
 </div>
 
 Welcome to my learning repository! 👋
