@@ -32,6 +32,21 @@ I’m using this repository to:
 
 </p>
 
+## 📚 Concepts Covered
+
+* Prompt Engineering
+* Large Language Models
+* Google Gemini
+* LangChain
+* RAG Architecture
+* Embeddings
+* Vector Databases
+* Semantic Search
+* AI Agents
+* Multi-Agent Systems
+* Streamlit Deployment
+* LLM Application Development
+
 ## 🗺️ Learning Roadmap
 
 - [x] Python Environment Setup
@@ -55,7 +70,7 @@ I’m using this repository to:
 * Deploy AI applications
 * Strengthen my AI portfolio
 
-# 📦 Installation
+## 📦 Installation
 
 ### 1️⃣ Clone the repository
 
