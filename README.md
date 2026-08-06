@@ -114,3 +114,12 @@ GOOGLE_API_KEY=your_api_key_here
 ```bash
 streamlit run app.py
 ```
+
+<div align="center">
+<h3>⭐ Thanks for visiting! </h3>
+
+If you like this repository, consider giving it a Star ⭐.
+
+Happy Coding! 🚀
+
+</div>
